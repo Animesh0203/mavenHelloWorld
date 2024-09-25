@@ -1,2 +1,2 @@
 # mavenhelloworld
-Maven based Java Hello World Application for DevOps Assignment
+Maven based Java Application for DevOps Assignment
